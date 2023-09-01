@@ -24,7 +24,6 @@
 
 // console.log(arrEven);
 
-
 const generateRandomNumber = (rangeNum) => {
     const arr =[]
 
