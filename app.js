@@ -1,0 +1,1 @@
+console.log('anda berada di app.js');
