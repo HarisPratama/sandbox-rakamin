@@ -36,4 +36,5 @@ const generateRandomNumber = (rangeNum) => {
 }
 
 
-console.log(generateRandomNumber(50));
+console.log(generateRandomNumber(20));
+console.log('halo world');
